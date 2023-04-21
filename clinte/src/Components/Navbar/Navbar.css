@@ -1,0 +1,33 @@
+
+#navbarProfile {
+    width: 35px;
+    height: 35px;
+    margin-inline:5px;
+    border-radius: 20px;
+}
+
+
+.navbarIcons {
+    flex: 1;
+    text-align: center;
+}
+
+
+#navbarDP {display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70rem;
+
+}
+
+#logoutImage{
+    width: 35px;
+    height: 35px;
+    margin-inline: 10px;
+    cursor: pointer;
+}
+.navbar{
+    background-color: whitesmoke;
+    height: 45px;
+}
+

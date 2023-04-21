@@ -1,0 +1,36 @@
+#inputBox {
+    height: fit-content;
+    margin: 25px;
+    margin-left: 34rem;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.manageTwoInputs {
+    margin-inline: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#btntodo {
+    margin-right: 25%;
+    background-color: #6384bb;
+    margin-block: 6%;
+    border-radius: 5px;
+    width: fit-content;
+
+}
+
+#btntodo:hover {
+    background-color: #37c253;
+}
+
+#inputBigBox {
+    display: flex;
+}
